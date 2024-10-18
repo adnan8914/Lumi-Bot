@@ -1,4 +1,4 @@
-# Home Decor AI Chatbot
+# Lumi AI Chatbot
 
 An intelligent conversational AI chatbot designed for a high-end home decor store, specializing in lamps, curtains, and curtain drivers.
 
